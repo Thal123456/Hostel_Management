@@ -8,6 +8,7 @@ include 'php/connection.php';
 
 <body>
     <div>Hello World</div>
+    <div>Hi Hello</div>
     <?php include 'includes/sidebar.php'; ?>
     <div id="main-content">
         <?php include 'includes/header.php'; ?>
